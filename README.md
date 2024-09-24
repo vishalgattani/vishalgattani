@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Planning for Autonomous Robots, Control Theory and Systems Engineering.
 - 💞️ I’m looking to collaborate on Simulation-Based System Design for Robotic Applications.
 - 📫 My e-mail address: (vgattani@umd.edu ; vishalgattani09@gmail.com)
+- Also, I am trying to increase my typing speed daily using [monkeytype](https://monkeytype.com/profile/vishalgattani).
 
 ### Languages & Tools
 
