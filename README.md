@@ -5,36 +5,42 @@
 - 📫 My e-mail address: (vgattani@umd.edu ; vishalgattani09@gmail.com)
 - Also, I am trying to increase my typing speed daily using [monkeytype](https://monkeytype.com/profile/vishalgattani).
 
-### Languages & Tools
+## My Skills
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
+### Application Development
+
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)&nbsp; (sort of)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)&nbsp; (sort of)
+<!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)&nbsp; -->
 
-![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+### Software
+- ![Matlab](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
+- ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)&nbsp;
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)&nbsp;
+<!-- ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)&nbsp;
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)&nbsp;
 ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5.js&logoColor=FFFFFF)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)&nbsp; -->
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)&nbsp;
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)&nbsp;
+### Graphics & Animation
+- ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)&nbsp;
+- ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)&nbsp;
 
 #### Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
+- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+- ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)&nbsp;
 
 <!-- ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp; -->
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp; -->
@@ -52,7 +58,13 @@
 <!-- ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp; -->
 <!-- ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp; -->
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=vishalgattani&theme=blue-green)
+
+# ✨My stats✨
+![Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalgattani&theme=monokai)
+![Top launguages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishalgattani&theme=monokai)
+![Top launguages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishalgattani&theme=monokai)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishalgattani&theme=monokai)
+![Commits per day by hour(UTC)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishalgattani&theme=monokai)
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgattani" /> 
